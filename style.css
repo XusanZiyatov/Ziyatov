@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.photo {
+    border-top: 2px solid #000;
+    background-image: url(assets/New-York.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: red;
+}
+.span {
+    color: orange;
+   
+}
+.Style {
+    color: rgb(42, 62, 175);
+}
+.id {
+    text-align: center;
+    margin-top: 230px;
+}
+.color {
+    color: #fff;
+}
+.button{
+    
+    padding: 8px 8px 8px 8px;
+    border-radius: 30%;
+}
